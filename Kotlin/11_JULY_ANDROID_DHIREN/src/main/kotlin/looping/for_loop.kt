@@ -24,4 +24,9 @@ fun main() {
         print("$num  ")
     }
 
+    var array = arrayOf(12,45,78,34,23)
+    for(num in array){
+        print("$num  ")
+    }
+
 }
